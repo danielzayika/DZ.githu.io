@@ -1,0 +1,4 @@
+p.centro { /* declarar qual e a .class que vai ser especificada apenas para os paragrafos*/
+          text-align: center; /*declarar o texto com class p.centro para centralizar */
+          color: red; /*declarar o texto com class p.centro com cor vermelha */
+         }
